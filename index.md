@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kavi's Pages
 
 You can use the [editor on GitHub](https://github.com/kavi1004/kavi1004.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
